@@ -1,0 +1,17 @@
+.global-nav {
+    background-color: #b9b7b7;
+    padding: 10px;
+    border-style: solid;
+    border-width:  1px;
+    border-radius: 5px;
+    list-style: none;
+}
+
+.local-nav {
+    background-color: #ca91e0;
+    padding: 10px;
+    border-style: solid;
+    border-width:  1px;
+    border-radius: 5px;
+    list-style: none;
+}
