@@ -7,11 +7,12 @@ html {
     border-width: 2px;
     border-radius: 5px;
     padding: 10px;
-    background-color: rgb(235, 179, 179)
+    background-color: rgb(235, 179, 179);
+    font-size: 18px;
 }
 
 .global-nav-heading {
-    text-decoration-color: darkblue;
+    color: rgb(43, 91, 161);
 }
 
 .global-nav {
@@ -21,6 +22,10 @@ html {
     border-width:  1px;
     border-radius: 5px;
     list-style: none;
+}
+
+.local-nav-heading {
+    color: rgb(117, 32, 187);
 }
 
 .local-nav {
